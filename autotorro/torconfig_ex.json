@@ -1,0 +1,12 @@
+{
+  "transmission_server" : "localhost",
+  "transmission_port" : 9091,
+  "transmission_user" : "transmission",
+  "transmission_password" : "transmission",
+
+
+
+
+  "showfeed" :"http://showrss.info/user/45681.rss?magnets=true&namespaces=true&name=clean&quality=null&re=null",
+  "schedulefeed": "http://showrss.info/user/schedule/45681.rss"
+}
